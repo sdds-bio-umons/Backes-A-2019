@@ -1,7 +1,7 @@
 Expérience de classe inversée dans le cadre d’un cours de biologie en 4ème secondaire 
 ==================
 
-Mémorant: ''Anthony Backes''
+Mémorant: __Anthony Backes__
 
 Promoteur: X. Simon, Ph.D.
 
